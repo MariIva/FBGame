@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "750551623610",
+    "project_id": "gameball-34299",
+    "storage_bucket": "gameball-34299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750551623610:android:bb3b0154d84eb160721f83",
+        "android_client_info": {
+          "package_name": "ru.mora.fbgameball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750551623610-ed8cm5mkoevabsmj6ovneha4ecu1u7q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.mora.fbgameball",
+            "certificate_hash": "5698a1884c2bf404d5f6cb76543f543a3218469d"
+          }
+        },
+        {
+          "client_id": "750551623610-l0dufum196ojkh5gp6davjia60r82b36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZg9fJwALs5ujNrmWcsLWq7JcXcdhvD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750551623610-l0dufum196ojkh5gp6davjia60r82b36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

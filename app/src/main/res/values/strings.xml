@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FBGameBall</string>
+
+    <string name="title">Title</string>
+    <string name="secondary_text">Secondary text</string>
+    <string name="ball">Оценка</string>
+
+    <string name="name">Название</string>
+    <string name="disc">Описание</string>
+    <string name="add">Добавить</string>
+
+    <string name="login_google">Google</string>
+</resources>
